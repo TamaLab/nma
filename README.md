@@ -1,15 +1,14 @@
 # nma
 
-Rotational Translational Block method for large scale normal mode analysis
+### Rotational Translational Block method for large scale normal mode analysis
 
 Copyright (c) 2000-2005 Florence Tama, Yves-Henri Sanejouand
 Developed at Paul Sabatier University, Toulouse, France
 
 Copyright (c) 2024 Florence Tama, Osamu Miyashita (block cutoff)
-Developed at Nagoya University, Nagoya, Japan
-             RIKEN, Kobe, Japan
+Developed at Nagoya University, Nagoya, Japan & RIKEN, Kobe, Japan
 
-References:
+### References:
 
 RTB method
 
@@ -34,3 +33,7 @@ cd src/build
 cmake ..
 make
 ```
+
+## Contacts
+* Osamu Miyashita osamu.miyashita@riken.jp
+* Florence Tama florence.tama@nagoya-u.jp
